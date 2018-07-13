@@ -154,3 +154,18 @@ C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\en-150\Cont
 C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.exe
 C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.xml
 C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.pdb
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\bin\Debug\Controll All.exe
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\bin\Debug\Controll All.pdb
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\bin\Debug\Controll All.xml
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\Controll All.exe
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\Controll All.xml
+C:\Users\user\Github\Arduino-Serial-Interface\Controll All\obj\Debug\Controll All.pdb

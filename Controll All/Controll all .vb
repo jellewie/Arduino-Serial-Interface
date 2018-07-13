@@ -13,7 +13,7 @@ Public Class Serial_Data
 
     '==================================================
     '==================================================
-    '==========          Core V7.1           ==========
+    '==========          Core V7.1+ (looks like 8) ==========
     '==================================================
     '==================================================
     Dim RecievedText As String
@@ -106,10 +106,10 @@ ErrHand:
         End If
     End Sub
     'Code   - Connect
-    Sub Connect()
-        If ComboBoxUSB.Text <> "" Then
+    Sub Connect()                                                                   'The connect to a comport code
+        If ComboBoxUSB.Text <> "" Then                                              'If an Comport has been selected
             On Error GoTo ErrHand
-            ''SerialPort1.Close()
+            'SerialPort1.Close()
             SerialPort1.PortName = ComboBoxUSB.Text
             SerialPort1.BaudRate = 9600
 
@@ -121,14 +121,14 @@ ErrHand:
             SerialPort1.Encoding = System.Text.Encoding.Default
             SerialPort1.ReadTimeout = 1
 
-            SerialPort1.Open()
-            ComboBoxUSB.Enabled = False
-            ButtonSend.Enabled = True
-            TextBoxInput.Enabled = True
-            ButtonConnectDisconnect.Text = "Disconnect"
-            ButtonConnectDisconnect.ForeColor = Color.Red
-            TextBoxInput.Select()
-            RunOnConnect()
+            SerialPort1.Open()                                                      'Startup the serial connection
+            ComboBoxUSB.Enabled = False                                             'Disable the dropdown menu
+            ButtonSend.Enabled = True                                               'Enable the send button
+            TextBoxInput.Enabled = True                                             'Enable the send input text box
+            ButtonConnectDisconnect.Text = "Disconnect"                             'Change the button to display disconnect
+            ButtonConnectDisconnect.ForeColor = Color.Red                           'Change the button color of this button
+            TextBoxInput.Select()                                                   'Select the send text field
+            RunOnConnect()                                                          'Run some user code if needed
         Else
             MsgBox("I can not connect to nothing! what where you thinking..." + Chr(13) + "Please give me a COM poort to connect to, before letting me try to connect to it", , MSGBoxName)
             ReloadUSB()
@@ -136,60 +136,60 @@ ErrHand:
         Exit Sub
 ErrHand:
         MsgBox("The COM Port your trying to use, does not seems to work anymore" + Chr(13) + "Did you remove the cable again?", , MSGBoxName)
-        ReloadUSB()
-        ButtonConnectDisconnect.Select()
+        ReloadUSB()                                                                 'Reload the current connected USB ports list  (It's no longer up to date)
+        ButtonConnectDisconnect.Select()                                            'Select the connect/disconnect button
     End Sub
     'Code   - Disconnect
     Sub Disconnect()
-        RunOnDisconnect()
-        ComboBoxUSB.Enabled = True
-        ButtonSend.Enabled = False
-        TextBoxInput.Enabled = False
-        ButtonConnectDisconnect.Text = "Connect"
-        ButtonConnectDisconnect.ForeColor = Color.Green
-        ButtonConnectDisconnect.Select()
-        On Error GoTo ErrHand
-        SerialPort1.Close()
+        RunOnDisconnect()                                                           'Run some user code if needed
+        ComboBoxUSB.Enabled = True                                                  'Enabnle the dropdown menu
+        ButtonSend.Enabled = False                                                  'Disable the send button
+        TextBoxInput.Enabled = False                                                'Disable the send input text box
+        ButtonConnectDisconnect.Text = "Connect"                                    'Change the button to display connect
+        ButtonConnectDisconnect.ForeColor = Color.Green                             'Change the button color of this button
+        ButtonConnectDisconnect.Select()                                            'Select the button (so enter would connect again)
+        On Error GoTo ErrHand                                                       'on a error (we can not close the serial port) go to "errHand"
+        SerialPort1.Close()                                                         'Close the Serial port
         Exit Sub
 ErrHand:
-        ReloadUSB()
+        ReloadUSB()                                                                 'Reload the current connected USB ports list (It's no longer up to date)
     End Sub
     'Action - Recieved serial data
     Private Sub SerialPort1_DataReceived(ByVal sender As System.Object, ByVal e As System.IO.Ports.SerialDataReceivedEventArgs) Handles SerialPort1.DataReceived
-        System.Threading.Thread.Sleep(10)    'Minimal 4
-        ReceivedText(SerialPort1.ReadExisting())
+        System.Threading.Thread.Sleep(10)                                           'Wait some time to make sure the data is there (Minimal 4ms)
+        ReceivedText(SerialPort1.ReadExisting())                                    'Send the data to be processed
     End Sub
     'Code   - Recieved serial data
-    Private Sub ReceivedText(ByVal [text] As String) 'input from ReadExisting
+    Private Sub ReceivedText(ByVal [text] As String)                                'input from ReadExisting
         If Me.RichTextBoxOutput.InvokeRequired Then
             Dim x As New SetTextCallback(AddressOf ReceivedText)
             Me.Invoke(x, New Object() {(text)})
         Else
-            RecievedText = RecievedText + [text]
-            Dim A = 10
+            RecievedText = RecievedText + [text]                                    'Add the recieved text to the StringBuffer
+            Dim A = 10                                                              'Do for this amount of times
             'Cut end send if we have a valid command "<StartBit> <some random data> <StopBit>"
-            Do While InStr(1, RecievedText, StartBit) > 0 And InStr(2, RecievedText, StopBit) > 0 And A > 0
-                A = A - 1
-                Dim StartBitPos = InStr(1, RecievedText, StartBit)
-                Dim StopBitPos = InStr(2, RecievedText, StopBit)
-                If (StopBitPos > StartBitPos) Then
-                    Dim TheText = Microsoft.VisualBasic.Left(RecievedText, StopBitPos - 1)
-                    Dim TheText2 = Microsoft.VisualBasic.Right(TheText, StopBitPos - 1 - StartBitPos)
-                    RecievedText = Microsoft.VisualBasic.Right(RecievedText, Microsoft.VisualBasic.Len(RecievedText) - StopBitPos)
-                    RunOnDataRecieved(TheText2)
-                    RichTextBoxOutputb.Text &= TheText2 + Chr(13)
+            Do While InStr(1, RecievedText, StartBit) > 0 And InStr(2, RecievedText, StopBit) > 0 And A > 0 'Not sure why we would need to run this next code 10 times TODO FIXME?
+                A = A - 1                                                           'Remove one from the TODO times
+                Dim StartBitPos = InStr(1, RecievedText, StartBit)                  'Get the position of the StartBit
+                Dim StopBitPos = InStr(2, RecievedText, StopBit)                    'Get the position of the StopBit
+                If (StopBitPos > StartBitPos) Then                                  'If we first recieved a StartBit before a StopBit
+                    Dim TheText = Microsoft.VisualBasic.Left(RecievedText, StopBitPos - 1)  'Cut off after the StopBit
+                    Dim TheText2 = Microsoft.VisualBasic.Right(TheText, StopBitPos - 1 - StartBitPos)   'Begin by the StartBit
+                    RecievedText = Microsoft.VisualBasic.Right(RecievedText, Microsoft.VisualBasic.Len(RecievedText) - StopBitPos) 'But everything after the StopBit back info the StringBuffer
+                    RunOnDataRecieved(TheText2)                                     'Tell the program we have recieved this data
+                    RichTextBoxOutputb.Text &= TheText2 + Chr(13)                   'Set the Recieved text into the box
                 Else
-                    RecievedText = Microsoft.VisualBasic.Right(RecievedText, Microsoft.VisualBasic.Len(RecievedText) - StopBitPos)
+                    RecievedText = Microsoft.VisualBasic.Right(RecievedText, Microsoft.VisualBasic.Len(RecievedText) - StopBitPos) 'Remove everything before the StopBit
                 End If
             Loop
-            Me.RichTextBoxOutput.Text &= [text] 'append text to all past command list
-            If AutoScroll.Checked = True Then
-                RichTextBoxOutput.SelectionStart = RichTextBoxOutput.TextLength
-                RichTextBoxOutput.ScrollToCaret()
-                RichTextBoxInput.SelectionStart = RichTextBoxInput.TextLength
-                RichTextBoxInput.ScrollToCaret()
-                RichTextBoxOutputb.SelectionStart = RichTextBoxOutputb.TextLength
-                RichTextBoxOutputb.ScrollToCaret()
+            Me.RichTextBoxOutput.Text &= [text]                                     'add text to all last commands list
+            If AutoScroll.Checked = True Then                                       'If autoscroll is checked
+                RichTextBoxOutput.SelectionStart = RichTextBoxOutput.TextLength     'Get the needed stroll position
+                RichTextBoxOutput.ScrollToCaret()                                   'Scroll to that point
+                RichTextBoxInput.SelectionStart = RichTextBoxInput.TextLength       'Get the needed stroll position
+                RichTextBoxInput.ScrollToCaret()                                    'Scroll to that point
+                RichTextBoxOutputb.SelectionStart = RichTextBoxOutputb.TextLength   'Get the needed stroll position
+                RichTextBoxOutputb.ScrollToCaret()                                  'Scroll to that point
             End If
         End If
         Exit Sub
