@@ -1,0 +1,156 @@
+D:\Dropbox\Rubiks VB\Controll All\Controll All\bin\Debug\Controll All.exe.config
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\bin\Debug\Controll All.exe.config
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\bin\Debug\Controll All.exe
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\bin\Debug\Controll All.pdb
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\bin\Debug\Controll All.xml
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\obj\Debug\Controll All.exe
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\obj\Debug\Controll All.xml
+D:\Dropbox\Rubiks VB\V4.1 Controll All\Controll All\obj\Debug\Controll All.pdb
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\bin\Debug\Controll All.exe.config
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\obj\Debug\Controll All.exe
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\obj\Debug\Controll All.xml
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\obj\Debug\Controll All.pdb
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\bin\Debug\Controll All.exe
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\bin\Debug\Controll All.pdb
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\bin\Debug\Controll All.xml
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+D:\Dropbox\Rubiks VB\V5 Controll All\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\Controll All.exe
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\Controll All.xml
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\Controll All.pdb
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\bin\Debug\Controll All.exe
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\bin\Debug\Controll All.pdb
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\bin\Debug\Controll All.xml
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\Jelle\Desktop\V5 Controll All\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\bin\Debug\Controll All.exe
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\bin\Debug\Controll All.pdb
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\bin\Debug\Controll All.xml
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\Controll All.exe
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\Controll All.xml
+C:\Users\Jelle\Desktop\Visual studio\V6 Controll All\Controll All\obj\Debug\Controll All.pdb
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\Controll All.exe
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\Controll All.xml
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\Controll All.pdb
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\bin\Debug\Controll All.exe
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\bin\Debug\Controll All.pdb
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\bin\Debug\Controll All.xml
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\Jelle\Desktop\Visual studio\V6 School\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\bin\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\bin\Debug\Controll All.pdb
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\bin\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V7 Serial\Controll All\obj\Debug\Controll All.pdb
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\bin\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\bin\Debug\Controll All.pdb
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\bin\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V7.1 Serial\Controll All\obj\Debug\Controll All.pdb
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\bin\Debug\Controll All.exe
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\bin\Debug\Controll All.pdb
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\bin\Debug\Controll All.xml
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\Controll All.exe
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\Controll All.xml
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\V7.1 Serial\Controll All\obj\Debug\Controll All.pdb
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\bin\Debug\Controll All.exe
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\bin\Debug\Controll All.pdb
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\bin\Debug\Controll All.xml
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\Controll All.exe
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\Controll All.xml
+C:\Users\user\ROC Alfa-college\Schuurman, Mathieu - Project jaar 3-4\Program\Controll All\obj\Debug\Controll All.pdb
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\Controll All.pdb
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\bin\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\bin\Debug\Controll All.pdb
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\bin\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V8 Control All\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\bin\Debug\Controll All.exe.config
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\bin\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\bin\Debug\Controll All.pdb
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\bin\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\bin\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.resources
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\WindowsApplication1.Serial_Data.en-150.resources
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\en-150\Controll All.resources.dll
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.exe
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.xml
+C:\Users\user\Desktop\Visual studio\V8 Serial\Controll All\obj\Debug\Controll All.pdb
